@@ -1,6 +1,25 @@
 # Beecrowd
 
-Welcome to my Beecrowd repository. Here, you can find all the resolutions of my algorithms from the platform. Feel free to study and collaborate with them ;)
+Bem-vindo ao meu repositório [Beecrowd](https://www.beecrowd.com.br/). Aqui, você pode encontrar todas as resoluções dos meus algoritmos da plataforma. Sinta-se a vontade para estudar e colaborar com eles 😉
+
+## Languages
+| Linguagem  | Cobertura |
+|:-----------|:---------:|
+| C          |     ✅    |
+| C++        |     ❌    |
+| Java       |     ✅    |
+| Python     |     ✅    |
+| Ruby       |     ❌    |
+| C#         |     ❌    |
+| Scala      |     ❌    |
+| Lua        |     ❌    |
+| JavaScript |     ❌    |
+| TypeScript |     ❌    |
+| Go         |     ❌    |
+| Kotlin     |     ❌    |
+| Haskell    |     ❌    |
+| Ocaml      |     ❌    |
+| Pascal     |     ❌    |
 
 ## License
-MIT by [Wolney Oliveira](https://github.com/wolney-fo)
+MIT por [Wolney Oliveira](https://github.com/wolney-fo)
