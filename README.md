@@ -7,10 +7,11 @@ Bem-vindo ao meu repositório [Beecrowd](https://www.beecrowd.com.br/). Aqui, vo
 
 ## Categorias
 
-| Categoria | Descrição                                                 | Abrir  |
-| :-------: | :-------------------------------------------------------- | :----: |
-| Iniciante | Problemas básicos para quem está iniciando na programação | [➡️](https://github.com/wolney-fo/beecrowd/tree/main/1-INICIANTE) |
-|  Ad-Hoc   | Problemas de Simulação, Datas e Ad-Hoc no geral           | [➡️](https://github.com/wolney-fo/beecrowd/tree/main/2-AD-HOC) |
+| Categoria | Descrição                                                    |                               Abrir                               |
+| :-------: | :----------------------------------------------------------- | :---------------------------------------------------------------: |
+| Iniciante | Problemas básicos para quem está iniciando na programação    | [➡️](https://github.com/wolney-fo/beecrowd/tree/main/1-INICIANTE) |
+|  Ad-Hoc   | Problemas de Simulação, Datas e Ad-Hoc no geral              |  [➡️](https://github.com/wolney-fo/beecrowd/tree/main/2-AD-HOC)   |
+|  Strings   | Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings |  [➡️](https://github.com/wolney-fo/beecrowd/tree/main/3-STRINGS)   |
 
 ## Linguagens disponíveis
 
@@ -35,11 +36,12 @@ Bem-vindo ao meu repositório [Beecrowd](https://www.beecrowd.com.br/). Aqui, vo
 
 ## Diretório
 
-````
+```
 $ROOT
 ├── 1-INICIANTE/
-└── 2-AD-HOC/
-````
+├── 2-AD-HOC/
+└── 3-STRINGS/
+```
 
 ## License
 
