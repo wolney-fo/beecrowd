@@ -1,3 +1,6 @@
 while True:
-    password = int(input())
-    print(password - 1)
+    try:
+        password = int(input())
+        print(password - 1)
+    except EOFError:
+        break
