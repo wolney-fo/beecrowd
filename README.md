@@ -12,6 +12,7 @@ Bem-vindo ao meu repositório [Beecrowd](https://www.beecrowd.com.br/). Aqui, vo
 | Iniciante | Problemas básicos para quem está iniciando na programação    | [➡️](https://github.com/wolney-fo/beecrowd/tree/main/1-INICIANTE) |
 |  Ad-Hoc   | Problemas de Simulação, Datas e Ad-Hoc no geral              |  [➡️](https://github.com/wolney-fo/beecrowd/tree/main/2-AD-HOC)   |
 |  Strings   | Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings |  [➡️](https://github.com/wolney-fo/beecrowd/tree/main/3-STRINGS)   |
+|  Estruturas e Bibliotecas   | Filas, Pilhas, Ordenação, Mapas... |  [➡️](https://github.com/wolney-fo/beecrowd/tree/main/4-ESTRUTURAS-E-BIBLIOTECAS)   |
 
 ## Linguagens disponíveis
 
@@ -30,6 +31,11 @@ Bem-vindo ao meu repositório [Beecrowd](https://www.beecrowd.com.br/). Aqui, vo
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width=35 
         height=35
+    /> 
+    <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+        width=28 
+        height=28
     />  
   <br>
 </div>
